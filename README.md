@@ -6,6 +6,7 @@ The MASS function absSpecSim(A, threshold) takes a symmetric adjacency matrix A 
 The main.m provides a running example on a sythetic LFR network. It will provide a threhold profile similar to the MASS curve in Figure 1(b).
 
 # Update: added a Python implementation
+# Author Lucas Jeub
 
 Simply run sparsify.py for a MASS profile. 
 
